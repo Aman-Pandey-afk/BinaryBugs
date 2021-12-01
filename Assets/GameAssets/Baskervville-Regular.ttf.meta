@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ad0156083d7f9d469efbe62a585fa5b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Baskervville
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 890f1a32db1ccfe4ca3ca14c0b2ff8b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
